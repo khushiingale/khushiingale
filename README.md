@@ -33,5 +33,5 @@
 
 ## 📫 Connect with me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/khushi-ingale/)
-- 📧 Email: khushiingale@gmail.com
+- 🌐 [LinkedIn](www.linkedin.com/in/khushi-ingale-644152288)
+- 📧 Email: khushiingale2003@gmail.com
