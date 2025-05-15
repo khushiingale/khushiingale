@@ -2,7 +2,7 @@
 
 🎓 Computer Engineering Student  
 💻 Passionate Full-Stack Developer  
-🚀 Building innovative web projects with Node.js, Express.js, React, MySQL, and more!
+🚀 Building innovative web projects with Node.js, Express.js, React, MySQL,MongoDB and more!
 
 ---
 
