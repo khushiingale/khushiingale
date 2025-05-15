@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Khushi Ingale
 
-<!--
-**khushiingale/khushiingale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+💻 Passionate Full-Stack Developer  
+🚀 Building innovative web projects with Node.js, Express.js, React, MySQL, and more!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+
+- 🔹 **LearnSetu** – An LMS platform with dashboards, chatbot & progress tracking  
+- 🔹 **User Management System** – Node.js, Express, MongoDB, Postman-tested APIs  
+- 🔹 **Hotel Management System** – Java Swing + MySQL desktop application
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Java, JavaScript, C++  
+**Frontend:** HTML, CSS, React.js  
+**Backend:** Node.js, Express.js, Servlet/JSP  
+**Database:** MySQL, MongoDB  
+**Tools:** Git, Postman, VS Code, MySQL Workbench  
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushiingale&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushiingale&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/khushi-ingale/)
+- 📧 Email: khushiingale@gmail.com
